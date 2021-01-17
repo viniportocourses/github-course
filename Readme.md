@@ -2,4 +2,4 @@
 
 Arquivo para aula de Git e Github para iniciantes.
 
-novo email
+Curso de git para iniciates.
